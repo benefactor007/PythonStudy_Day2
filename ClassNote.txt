@@ -1,0 +1,69 @@
+# historically in this class, this strikes people as more likely to happen than this.
+# Each roll is independent
+# 1/2^10 : 1 over 2 to the 10
+# {belaboring}: argue or elaborate (a subject) in excessive detail.
+# ** What fraction of the possible results have the property we're testing for.
+Probability between 0 (Cannot happen) and 1 (Guaranteed to happen)
+
+We can either (do sth: compute it directly), as I did when I computed the probability of getting all 1's, or we can
+compute the probability of something not happening by subtracting {subtract: take away (a number or amount) from another
+to calculate the difference.} one probability from another.
+
+{consecutive[kənˈsekyədiv]: following continuously)
+
+>> To draw sth(some pretty pictures) to illustrate[ˈiləˌstrāt] what's going on.
+
+...how the results of our analyses are presented so that sb(somebody else) can make sense of them
+or in fact, we can understand them better ourselves.
+
+>> There is a lot of
+Sometimes text is the best way, but sometimes there's a lot of truth to the Chinese proverb that
+a picture's meaning can express 10,000 words.
+
+>> Now most of us, sort of, believe this.
+>> Why don't we do it? Well(In fact) because in most programming languages, it's hard to draw pretty pictures.
+
+** PyLab is a Python library that provides many of the facilities of something called MATLAB.
+>> It has its utility.
+I like Python, it brings a lot of the features of MATLAB are easy to use in a programming language that I find much more
+{convivial[kənˈvivēəl]: (of an atmosphere or event) friendly, lively, and enjoyable.} than MATlab.
+
+All right I'm not going to give you a [t(y)o͞oˈtôrēəl] for PyLab. It would take a long time, and it would be boring.
+
+Instead I'm going to give you a few examples, and in fact, focus {primarily[ˌprīˈmerəlē]:for the most part; mainly.}
+on the plotting capabilities.
+
+>> ... are almost identical to ...
+The good news is the plotting capabilities in PyLab are almost identical to those in MATLAB.
+
+>> I'm beginning by importing.
+>> Something bad can happen. The code can hang.
+>> I wish it weren't that way, but it is.
+
+This can be very {deceptive[dəˈseptiv]:giving an appearance or impression different from the true one; misleading.},
+as we'll see later on.
+
+It's more {apparent[əˈperənt]: clearly visible or understood; obvious.} here, where we see this funny looking zigzag,
+implying(imply[imˈplī]) some complicated relationship amongst the points, which actually probably doesn't exist.
+
+>> We'll comment ...(this piece) out for now
+>> Now instead of ......., I'm going to do sth. (put them on separate figures.)
+>> as before, well not quite as before, a different sth (figure).
+
+time stamp
+
+>> It's made up sth(some values) for sth(the {x-axis[ˈaksəs]}).
+principal: a sum of money lent or invested, on which interest is paid.
+>> but if I haven't told you, you wouldn't know what that meant
+
+** All plots should have informative[inˈfôrmədiv] titles,and all axes should be labeled
+>> They end up doing sth(scratching[skraCH] their head.) They're not quite sure.
+
+1. You've got to label your axes.
+2. You've got to put a title.
+3. You've got to give the person a break
+
+So now it's the same thing(curve), but a far more informative picture.
+All right here is where I want to stop today, we're going to come back to this topic. in probably more
+detail than you want, and spend quite a lot of time doing sth(talking about how do we produce beautiful plots),
+and more importantly, how do we produce plots that are, actually, meaningful to those reading them.
