@@ -1,0 +1,105 @@
+# coding=utf-8
+
+>> it is kind of what you'd expect.
+>> ...(Compound interest) is a nice formula.
+>> ... refuse to do sth if ... looks like sth (Pronoun) .
+
+Pronouns are words that we use in place of Nouns (or other Pronouns) in a sentence
+to make it less repetitive and less awkward.
+
+>> There is no ...(point: singular noun) in ever (in any way), producing a graph that does not have
+a title and labeled axes.
+>> It's easy enough to do.
+>> ... that gives sb(me) a much more useful sth(graph).
+>> Nothing magical here, it's just a reminder that ...(you really need to do these things(plural noun))
+>> ...(You'll noticed here I've) not only do(told sb that this is the years of compounding and that this
+is the principal) but ...(I've measured it in dollars)
+>> I should have been (present perfect continuous) even ( more explicit(adj.) and said
+>> One of the things I did want to point out is ....(you saw the two of these various icons that will
+let you do things like zoom in on a graph and savve a graph)
+
+present perfect continuous: is used to denote that something which had begun in the past is still continued.
+
+Plural [ˈplo͝orəl]:
+
+You can actually get rich applying it.
+I usually refuse to look at it if it looks like this.
+It's a floppy disk, in case you've never seen one. I brought a floppy disk to show you.
+floppy disks: These were invented in 1971 by IBM
+>> sth be invented in year(1971) by sb(IBM)
+>> They were originally 8 inches in diameter and held all of kilobytes of data.
+
+pioneer [ˌpīəˈnir]: a person who is among the first to explore or settle a new country or area.
+>> Eventually, Apple and others pioneered a non-floppy floppy disk, that was in the '80s.
+>> ...(USB) that holds roughly 400,000 times more data than this floppy.
+>> It's just quite incredible how things have gone along. {事情的进展真是令人难以置信。}
+... want to return to what will be the main theme[THēm] for, as I said, a couple weeks which is
+randomness.
+>> And in order to talk about ...(randomness) we have to talk about ...(probability)
+
+deteriorated[dəˈtirēəˌrāt]: become progressively(steadily[ˈstedəlē]) worse.
+>> your mind kind of deteriorated a little bit over spring break, and your head isn't quite into things.
+And so, I'm just going to back up a tiny bit and start over to get our heads into it, and then fairly
+quickly move on to new things.
+
+>> sb(I) forgot that I needed to do(begin) by doing(gathering) chalk(CHôk).
+
+*** Probabilities can never be more than 1 as we'll see.
+
+>> let's now try and think of the right way to look at this question.
+
+Q: How many possible 10-digit numbers are there?
+A: 6^10 (6 to the 10th)
+
+Q: What's the odds[ädz] of not getting 1 the first or the second time?
+A: 5/6 * 5/6 (5 over 6 times 5 over 6) because these are independent events.(that's a key notion here)
+
+notion: a conception of or belief about something.
+
+>> I'm assuming that whether I get a 1 on the second roll is independent of whether I got a 1 on the first
+roll.
+
+dice die: throwing the dice
+et cetera[et ˈsedərə]
+
+The probability of not getting a 1 in 10 rolls : (5/6)^10 ((5 over 6) to the 10th)
+
+>> That make sense?
+>> If not, speak up, because things are going to get more complicated quickly.
+
+Q: Are you all with me on that?
+
+>> It was good effort.
+
+** If you want to get something where everything is covered, the probabilities always have to sum to 1.
+There are only two possibilities here, one possibility is I don't get any 1's. One possibility is I get
+at least one 1.
+
+If I take all of the possibilities, and I subtract the possibilities of not getting any 1's, the result
+must be the probability of getting at least one 1.
+
+>> This is a very common trick in sth(computing probabilities).
+
+Q: What's the probability of x ?
+A: The simplest way to compute it, is to compute the probability of not x and subtract it from 1.
+
+>> heading down a wrong track for this, one might have said, .....
+
+>> we know that can't be true. Because a probability always has to be less than or equal to 1.
+This is a good trick to keep in mind, whenever you've given a probability problem, try and figure out
+whether you have a good way to compute it directly, or whether it's simpler to compute the not of the
+probability, and then subtract it from 1.
+
+Probability is really fun field. It's interesting, it's history, it's intimately[ˈin(t)əmətlē] connected
+with the history of gambling.
+
+>> People of ...., all famous names you've heard, were motivated by desire to understand games of chance.
+
+>> The date at least, {archaeologically[ˌärkēəˈläjək(ə)l]:the study of human history and prehistory through the
+excavation[ˌekskəˈvāSH(ə)n] of sites and the analysis of artifacts and other physical remains.}, to about
+600 BC, where a pair of dice was found in Egyptian tombs.
+
+millennium [məˈlenēəm]: a period[ˈpirēəd] of a thousand years. plural millennia [məˈlenēə]
+>> Two millennia before the birth of Christ, people found dice in Egyptian tombs.
+
+
