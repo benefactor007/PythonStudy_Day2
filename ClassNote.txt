@@ -67,3 +67,20 @@ So now it's the same thing(curve), but a far more informative picture.
 All right here is where I want to stop today, we're going to come back to this topic. in probably more
 detail than you want, and spend quite a lot of time doing sth(talking about how do we produce beautiful plots),
 and more importantly, how do we produce plots that are, actually, meaningful to those reading them.
+
+
+-> Add on 12/14/2021
+
+Q: Is it profitable to do sth(to bet that given 24 rolls of a pair of fair dice, you would roll a double 6?
+
+profitable: (of a business or activity) yielding profit or financial gain.
+{Yield[yēld]: 1. produce or provide (a natural, agricultural[ˌaɡrəˈkəlCH(ə)rəl], or industrial product).
+2.give way to arguments, demands, or pressure.}
+
+Situation: He (actually) had a friend (who was in the business of gambling), making these bets[bet].
+
+>> Double 6, what we call today "box cars", in those days they just called two 6's.
+>> This was considered a (really) hard problem (in the mid-17th century).
+>> In fact, Pascal and Fermat, (two pretty smart guys) as it happens, debated[dəˈbāt] this.
+They exchanged sth(letter) with each other doing sth(trying to figure out)(how to solve this problem.)
+>> It shows sth.(how math has advanced), because, in fact, today, it's quite an easy problem.
