@@ -1,6 +1,7 @@
 import pylab
 
 from pyLabExamples import strDollar_to_int
+from PlayDice import rollDie
 
 def five_percent_growth_compounded_annually(principal: str = '100,000', years: int = 20):
     """just do compound interest"""
@@ -21,8 +22,22 @@ def five_percent_growth_compounded_annually(principal: str = '100,000', years: i
     pylab.show()
 
 
+def checkPascal(numTrials=100000):
+    yes = 0.0  # float
+    for i in range(numTrials):  # Traverse the numTrials
+        for j in range(24):  # Traverse in 24 times.
+            d1 = rollDie()
+            d2 = rollDie()
+            if d1 == 6 and d2 == 6:
+                yes +=1
+    print ('Probability of losing= ' + str(1.0 - yes/numTrials))
+
+
 def main():
-    five_percent_growth_compounded_annually('10,000')
+    # >>> to plot five_percent_growth_compounded_annually as below
+    # five_percent_growth_compounded_annually('10,000')
+    # >>> to run the checkPascal func.
+    checkPascal()
 
 
 if __name__ == '__main__':

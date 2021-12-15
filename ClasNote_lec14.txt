@@ -102,4 +102,34 @@ excavation[ˌekskəˈvāSH(ə)n] of sites and the analysis of artifacts and othe
 millennium [məˈlenēəm]: a period[ˈpirēəd] of a thousand years. plural millennia [məˈlenēə]
 >> Two millennia before the birth of Christ, people found dice in Egyptian tombs.
 
+-> Add on 12/14/2021
+
+Q: Is it profitable to do sth(to bet that given 24 rolls of a pair of fair dice, you would roll a double 6?
+
+profitable: (of a business or activity) yielding profit or financial gain.
+{Yield[yēld]: 1. produce or provide (a natural, agricultural[ˌaɡrəˈkəlCH(ə)rəl], or industrial product).
+2.give way to arguments, demands, or pressure.}
+
+Situation: He (actually) had a friend (who was in the business of gambling), making these bets[bet].
+
+>> Double 6, what we call today "box cars", in those days they just called two 6's.
+>> This was considered a (really) hard problem (in the mid-17th century).
+>> In fact, Pascal and Fermat, (two pretty smart guys) as it happens, debated[dəˈbāt] this.
+They exchanged sth(letter) with each other doing sth(trying to figure out)(how to solve this problem.)
+>> It shows sth.(how math has advanced), because, in fact, today, it's quite an easy problem.
+
+Q: What's the probability of not getting it 24 times(not getting a double 6) in a row?
+A: (35/36)^24, which is approximately[əˈpräksəmətlē] equal to 0.51.
+
+There is a slight edge in betting that you will not get a double 6 in 24 times.
+
+>> As old as dice is, people have built cheater's dice.
+The excavation of Pompeii, for example, they discovered a pair of loaded dice, dice with a little weight in it so
+one number would come up more often that it should.
+
+Quote: "Are you on unusually unlucky when it comes to rolling dice?"
+
+>> for {amusement: noun. the state or experience of finding something funny.} only.
+>> As much as I do sth(trust probability theory), I don't trust my ability to use it.
+>> And so what I did is wrote a little simulation to see if sb(Pascal) was right (when he did this).
 
