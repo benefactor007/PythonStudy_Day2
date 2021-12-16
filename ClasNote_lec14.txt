@@ -133,3 +133,166 @@ Quote: "Are you on unusually unlucky when it comes to rolling dice?"
 >> As much as I do sth(trust probability theory), I don't trust my ability to use it.
 >> And so what I did is wrote a little simulation to see if sb(Pascal) was right (when he did this).
 
+-> Add on 2021/12/16
+
+>> As we deal with sth(probability), we'll be doing sth(dealing a lot with the notion of simulation).
+>> Let sth(it) rip[rip]. : to start something up. Often used as an {imperative[əmˈperədiv]:of vital[ˈvīdl] importance
+; crucial.}
+
+That's the, well, to 17 digits of precision, the exact answer.
+
+>> came up with: to bring forth, discover, or produce.
+And you can see we came up with something close to that. Not exactly that, and we wouldn't expect to.
+
+Q: how do we know how many trials to run?
+
+>> The interesting thing is ...(I'm sure it took me less time to write this program than it took Pascal
+to solve the problem.)
+>> took sb less time to do sth than to do others.
+The truth is, I have several hundred years of people's work to build on.
+** several hundred years.
+
+Q: Is it easier sometimes to do sth(write a simulation), than ...(it is to do the probabilities?)
+A: What I often do in practice is both.
+
+>> I'll scratch[skraCH] my head and figure out how to figure out(come up with) the answer {analytically:
+adv. using analysis or logical reasoning.}. and then if it's easy, I'll write some code to simulate the problem
+, and expect to get roughly the same answer, giving me confidence I've done it correctly.
+>> On the other hand, if I've done the simulation and it had come up with something totally {bogus[ˈbōɡəs]: fake}.
+or totally fake, then I would have had to work hard to figure out which was right, the code or the math.
+** would have + had: situations that did not happen - an unreal, past situation.
+
+intuition[ˌint(y)o͞oˈiSH(ə)n]: the ability to understand something immediately, without the need for
+conscious[ˈkän(t)SHəs] reasoning.
+
+** This kind of simulation that (I've just done for the dice game) is what's called a "Monte Carlo simulation"
+
+>> It is the most popular kind of simulation named after a Casino on the Riviera, in the small {principality
+[ˌprinsəˈpalədē]: a state ruled by prince} of Monaco.
+
+>> This was back in the time... (to described as the past time)
+>> when it was hard to find a place you could gamble, and this happened to be one of the places [plural]
+you could.
+
+** coined: to invent a new word or expression
+The term was coined in 1949 by Stanislaw Ulam and Nicholas Metropolis, (two very well-known mathematicians)
+Ulam, who later become famous for designing the hydrogen[ˈhīdrəjən] bomb with Teller, invented the method in
+1946, and I'm going to quote from his description of how he invented it.
+
+>> "The first thoughts and attempts I made to practice the Monte Carlo method, were suggested by a question
+which occurred to me in 1946, as I was {convalescing[ˌkänvəˈles]: recover one's health or strength over a
+period of time after an illness or operation"} from an illness and playing {solitaires[ˈsäləˌter]: any of various
+card games played by one person}
+
+>> "The question was, what are the chances that a canfield solitaire laid out with 52 cards will come out
+successfully? After spending a lot of time doing sth(trying to estimate them )by pure combinatorial[ˌkämb(ə)nəˈtôrēəl]"
+calculations I wondered whether a more practical method than (quote) 'abstract{existing in thought} think' (end quote),
+might not be to lay it out, say 100 times, and simply observe and count the number of successful plays."
+
+envision[ənˈviZHən]: verb. imagine as a future possibility; visualize.
+
+>> This was already possible to do(envision) with sth(the beginning of the new area of fast computers.
+And I immediately thought of problems, as you would, immediately thought of problems of neutron {diffusion
+[dəˈfyo͞oZHən]: the spreading of sth move widely} and other questions of mathematical physics.
+And more generally, how to change processes described by certain differential equations into an equivalent
+[əˈkwiv(ə)lənt] form interpretable[inˈtərprət] as a succession of random operations.
+
+interpret[inˈtərprət]: verb. explain the meaning of (information, words, or actions).
+
+succession[səkˈseSHən]:the action or process of inheriting a title, office, property, etc.;
+the new king was already {elderly[ˈeldərlē]:(of a person) old or aging.} at the time of his succession.
+
+>> As early as 1946 (the year), people were thinking about the question of moving away from solving systems
+of equations to using randomized techniques to simulate things and try to find out what the actual answer
+was that way.
+
+** "Fast" is a relative term.
+Ulam was probably doing(referring) to the ENIAC computer, which could perform about 10 to the 3 additions
+a second.(1000 operations a second), and weighted approximately 25 tons. Now today's computers, by comparison,
+perform 10 to the 9th additions and weight about 10 to the minus 3 tons.
+
+>> This technique was used (during the Manhattan Project) to predict what would happen doing (during nuclear
+fission and worked.)
+
+fission[ˈfiSHən]: the action of dividing or splitting something into two or more parts.
+
+>> (Monte Carlo simulations) are an example of what's called "inferential statistics"
+
+** inferential [ˌinfəˈren(t)SH(ə)l]: 推论
+
+Inferential statistics is based upon one guiding principle. And that principle is that a random sample
+tends to {exhibit[iɡˈzibət]: manifest[ˈmanəˌfest]: clear or obvious to the eye or mind.} the same properties
+as the population from which it is drawn.
+
+>> explain to the above, if I try and sample people for predicting an election, the notion is if I go and I
+asked a 1,000 people at random in Massachusetts who they're going to vote for, the average will be about the same
+as if I looked at the whole population.
+
+>> whenever we use a statistical method like this,
+Q: is those 100,000 times I threw the pair of dice, that would be representative of all possible throws of the
+dice, the infinite number of possible throws?
+A: Yes, due to show upon the inferential statistics.
+
+>> One always has to ask the question ...(whether this is true or whether one has a sampling technique that is,
+for example, giving you a biased sample.
+
+** biased [ˈbīəst]: unfairly {prejudiced}[ˈprejədəst]: having or showing a dislike or distrust that is derived[dəˈrīv]
+from prejudice}  for or against someone or something.
+
+Little later in the term, we'll talk about many ways in which you can get fooled here and think you're doing a
+fair statistical analysis, and get all the math right, and still come up with the wrong answer because this
+assumption doesn't actually hold.
+
+Now in term of coins, a little sample than dice, where (you can flip a coin and you get either a head or a tail).
+
+Q: Would you feel good inferring from that the next time he flipped a coin it would also come up heads?
+
+>> I would infer that the coin was two-headed.
+>> Your common sense tells sb sth.
+
+>> This is technically called comparing something to the null hypothesis[ hīˈpäTHəsəs].
+null hypothesis: (in a statistical test) the hypothesis that there is no significant difference between specified
+populations, any observed difference being due to sampling or experimental error.
+The null hypothesis is what you would get with a random event.
+
+
+** This is an example of what's called "the law of large numbers", also known as Bernoulli's Law, after one of
+the Bernoulli family of mathematicians, and I can't, for the life of me, remember which Bernoulli.
+
+>> There are a whole bunch of them.
+
+underlie: be a significant cause or basis of (something) even if not necessarily manifest or obvious.
+
+**Anyway the law states, and it's important to understand this because again it underlies the inferential
+statistics, that in repeated independent teats, and it's important to note the word "independent", each test
+has to be independent of the earlier test.
+
+e.g. In this case, the tests are filps of the coin with the same actual probability we'll call it p, often used
+to represent probability, of an outcome for each test, the chance that the fraction of times outcome occurs
+{converges[kənˈvərj]: (of lines) tend to meet at a point.} to P as number of trails goes to infinity.
+
+>> It's worth noting that this law does not imply[imˈplī] that if start out with deviations from the expected
+behaviors, those deviations are likely to be quote "evened out" by opposite[ˈäpəzət] deviations in the future.
+
+So if I happen to start by getting a whole bunch of heads in a row, it does not mean that I'm more likely to get
+tails in a {subsequent[ˈsəbsəkwənt]: coming after something in time; following.} trail.
+
+>> Because if that were true, then they wouldn't be independent.
+** Independent means memoryless
+
+*** If I have an independent process, what happens in the future cannot be affected by the past.
+And therefore, I don't get this business of "they even out".
+
+even out: to become equal, or to make something equal:
+
+>> Now people refuse to believe this.
+If you go to any gambling place you'll discover that if people threw the roulette[ro͞oˈlet] wheel[(h)wēl], if
+black comes up 20 times in a row, they'll be a rush bet on read. "Red is do"
+
+Every psychologist (who has ever done this experiment) finds that people don't believe it. That it's not true.
+
+has ever done :
+
+>> It happens so often it's got a name called "the gambler's {fallacy[ˈfaləsē]:a mistaken belief}"
+There's(There have) been great examples of people going broke doing thus.
+

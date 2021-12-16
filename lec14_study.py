@@ -1,3 +1,5 @@
+import random
+
 import pylab
 
 from pyLabExamples import strDollar_to_int
@@ -29,9 +31,17 @@ def checkPascal(numTrials=100000):
             d1 = rollDie()
             d2 = rollDie()
             if d1 == 6 and d2 == 6:
-                yes +=1
+                yes += 1
+                break
     print ('Probability of losing= ' + str(1.0 - yes/numTrials))
 
+
+def flip(numFlips):
+    heads = 0
+    for i in range(numFlips):
+        if random.random() < 0.5:
+            heads += 1
+    return heads/float(numFlips)
 
 def main():
     # >>> to plot five_percent_growth_compounded_annually as below
