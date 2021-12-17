@@ -271,6 +271,7 @@ e.g. In this case, the tests are filps of the coin with the same actual probabil
 to represent probability, of an outcome for each test, the chance that the fraction of times outcome occurs
 {converges[kənˈvərj]: (of lines) tend to meet at a point.} to P as number of trails goes to infinity.
 
+
 >> It's worth noting that this law does not imply[imˈplī] that if start out with deviations from the expected
 behaviors, those deviations are likely to be quote "evened out" by opposite[ˈäpəzət] deviations in the future.
 
@@ -294,5 +295,62 @@ Every psychologist (who has ever done this experiment) finds that people don't b
 has ever done :
 
 >> It happens so often it's got a name called "the gambler's {fallacy[ˈfaləsē]:a mistaken belief}"
-There's(There have) been great examples of people going broke doing thus.
+There's(There have) been great examples of people going broke doing this.
 
+Add on the morning, Dec. 17, 2021.
+
+Power of 2: the result of exponentiation with number two as the base and integer n as the exponent.
+
+You'll notice that it appears (that maybe I'm biasing a little bit), because I'm giving 0.5 a value.
+But there are so many floating point numbers between 0 and 1. That the probability of getting exactly 0.5 is
+so small that I can ignore it.
+
+>> we also saw something where it went up a little bit then it went down and then shot up dramatically at the end,
+which was (why (that scale is so funny))
+
+>> if we look at the ratio, what we see is it seems to converge towards 1.
+
+{trend[trend]: a general direction in which something is developing or changing.
+
+>> mislead sb into doing sth
+*** People pot a small number of points, connect them by a line, and mislead the audience into thinking there's a trend.
+when, in fact, maybe all you have is an outlier.
+
+>> It is {problematical:involving or constituting a problem.} (here) to do it that way.
+
+{constitute[ˈkänstəˌt(y)o͞ot]: be (a part) of a whole.}
+
+>> what I'm going to do is change it in two ways.
+>> what we see is it's pretty {sparse[spärs]:thinly dispersed or scattered[ˈskadərd].}
+scattered[ˈskadərd]:occurring or found at intervals or various locations rather than all together.
+interval:an intervening time or space. (after his departure, there was an interval of many years without any meetings)
+
+Because way out here (I'm only connecting two points), giving an illusion that there is a
+trend but, in fact, no reason to believe it.
+
+>> we can't see much of what's going on over here
+
+logarithmic[ˌlôɡəˈriT͟Hmik]
+
+>> There is no need to make it logarithmic
+>> we can see things much more clearly, so log scales can be enormously[əˈnôrməslē] useful.
+
+>> everyone uses(third person present) them a lot
+>> It is very important to observe the fact that it's logarithmic and not get fooled.
+
+** Linear scaling
+** Logarithmic scaling
+
+>> we now have charts where I can, perhaps, actually reach some conclusion about what's going on.
+
+Q: how certain can I be? Can I really be certain that, indeed, this should be converging to 1?
+
+A: ** You can never get absolute certainly from sampling because you could never be sure if you
+haven't been vastly lucky or unlucky.
+
+>> That's not to say you can't get the absolute correct answer. I can't know that that's the correct answer.
+>> The question I want to {pursue[pərˈso͞o]:ollow (someone or something) in order to catch or attack them.}, and it's
+what we'll cover on ..., is what techniques can I use to make a statement of the form.
+
+>> make a statement of the form, which I'm certain within the following range that I have the right answer.
+>> That I know the right answer is highly likely to be this close to the answer (what) my simulation is giving me.
