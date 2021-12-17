@@ -297,6 +297,16 @@ has ever done :
 >> It happens so often it's got a name called "the gambler's {fallacy[ˈfaləsē]:a mistaken belief}"
 There's(There have) been great examples of people going broke doing this.
 
+Add on Thursday evening, Dec. 16.
+
+"the law of large numbers "
+>> It doesn't say anything at all about that. It says the ratio of head to tails will approach 1, but
+not the difference between them
+>> Let's look at an example showing that off.
+
+exponent[ikˈspōnənt]: MATHEMATICS, a quantity representing the power to which a given number or expression
+                      is to be raised.
+
 Add on the morning, Dec. 17, 2021.
 
 Power of 2: the result of exponentiation with number two as the base and integer n as the exponent.
